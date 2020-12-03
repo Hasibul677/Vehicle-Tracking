@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string name="student">STUDENT</string>
+    <string name="admin">ADMIN</string>
+</resources>
